@@ -202,7 +202,7 @@ body {
     background: rgba(0, 0, 0, .5) url('https://i.imgur.com/f9Q8TJ7.jpeg');
     background-blend-mode: darken;
     background-repeat: no-repeat;
-    background-position: 50% 50%;
+    background-position: 100% 100%;
 }
 
 .main1_logo_a {
